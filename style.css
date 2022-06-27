@@ -1,0 +1,47 @@
+body{
+    font-family: monospace;
+}
+
+#search{
+    background-color: lightgrey;
+    padding: 2rem 0;
+}
+
+button{
+    margin-top: 4px;
+
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+}
+
+.buttonDiv{
+    margin: 0 42%;
+}
+
+.pDiv{
+    margin: 0 42.95%;
+}
+
+.inputDiv{
+    margin: 0 44%;
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+}
+
+#imgGoogle{
+    margin: 0 36%; 
+}
+
+.link{
+    color: black;
+}
+
+.spanLink{
+    padding: 2rem;
+    background-color: aquamarine;
+    margin: 0 36.2%;
+}
